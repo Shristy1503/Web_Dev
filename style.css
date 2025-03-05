@@ -87,7 +87,7 @@ header, footer, article, nav, aside {
 }
 
 .card .text > button {
-    background: gray;
+    background: rgb(140, 130, 130);
     border: none;
     color: white;
     padding: 10px;
